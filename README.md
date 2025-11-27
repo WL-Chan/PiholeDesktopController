@@ -56,8 +56,7 @@ For developers who want to build the project from source:
 
 ### Build Instructions
 
-git clone https://github.com/
-<your-username>/PiHoleDesktopController
+git clone https://github.com/WL-Chan/PiHoleDesktopController
 cd PiHoleDesktopController
 dotnet build
 

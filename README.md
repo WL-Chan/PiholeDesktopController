@@ -35,9 +35,6 @@ All commands are executed over SSH:
 
 The following improvements are planned for future versions:
 - Cross-platform support using Avalonia (Windows, macOS, Linux)
-- Login screen with optional credential storage
-- Support for custom SSH ports
-- A simplified single-Pi-hole version for public use
 - Optional Pi-hole API integration
 - Improved UI layout and theme options
 
